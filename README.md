@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=100&lines=Python+Developer.;Backend+Developer.)](https://git.io/typing-svg)
 
-## 👋 Hi, I’m Jesse Ajioh.
-
+## 👋 Hi, I’m Kansasx.
+<!-- 
 <p align="left">
   <a href="https://www.twitter.com/MtsorJ" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/MtsorJ?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
-  </a>
+  </a> -->
 <!--   <a href="https://www.linkedin.com/in/victorekeawa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
